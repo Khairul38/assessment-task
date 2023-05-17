@@ -49,7 +49,7 @@ Please follow the below instructions to run this repository on your local machin
    # or
    yarn
    ```
-6. Run server (Default Port is 3000)
+6. Run server (Default Port is 3000, for swagger use: http://localhost:3000/api)
 
    ```sh
    # development
